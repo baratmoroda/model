@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxReFMyF3pYjEvbeeWSYyEtNCM5IIPpR2QfiBMlL5m1SDAN+Ypq0XM/L7WAdZxDl9oILj0pK2Msza1x3Lfy90A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marat\\source\\repos\\TennisSim\\TennisSim\\TennisSim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marat\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\marat\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\marat\\.nuget\\packages\\scottplot\\4.1.61\\scottplot.4.1.61.nupkg.sha512",
+    "C:\\Users\\marat\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\marat\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
